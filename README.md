@@ -1,4 +1,4 @@
-# 🎵 Music Recommendation System
+# 🎵 Music Recommendation System (Personalised Music Platform)
 
 ## 📌 Overview
 This project is a web-based music recommendation system that suggests songs based on user preferences and similarity algorithms.
