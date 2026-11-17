@@ -15,7 +15,9 @@ It suggest music based on user mood and direct display it.
 - Flask / FastAPI
 - HTML/CSS
 - Pandas
-- Scikit-learn 
+- Scikit-learn
+- JavaScript
+- 
 
 ## 📂 Project Structure
 music-recommender/
